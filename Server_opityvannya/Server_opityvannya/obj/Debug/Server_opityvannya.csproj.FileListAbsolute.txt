@@ -1,0 +1,7 @@
+F:\VS programs\4 курс 2 семестр\Server_opityvannya\Server_opityvannya\bin\Debug\Server_opityvannya.exe.config
+F:\VS programs\4 курс 2 семестр\Server_opityvannya\Server_opityvannya\obj\Debug\Server_opityvannya.csprojResolveAssemblyReference.cache
+F:\VS programs\4 курс 2 семестр\Server_opityvannya\Server_opityvannya\bin\Debug\Server_opityvannya.exe
+F:\VS programs\4 курс 2 семестр\Server_opityvannya\Server_opityvannya\bin\Debug\Server_opityvannya.pdb
+F:\VS programs\4 курс 2 семестр\Server_opityvannya\Server_opityvannya\bin\Debug\MySql.Data.dll
+F:\VS programs\4 курс 2 семестр\Server_opityvannya\Server_opityvannya\obj\Debug\Server_opityvannya.exe
+F:\VS programs\4 курс 2 семестр\Server_opityvannya\Server_opityvannya\obj\Debug\Server_opityvannya.pdb
