@@ -1,0 +1,8 @@
+F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\bin\Release\Client_opityvannya.exe.config
+F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\bin\Release\Client_opityvannya.exe
+F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\bin\Release\Client_opityvannya.pdb
+F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\obj\Release\Client_opityvannya.Form1.resources
+F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\obj\Release\Client_opityvannya.Properties.Resources.resources
+F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\obj\Release\Client_opityvannya.csproj.GenerateResource.Cache
+F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\obj\Release\Client_opityvannya.exe
+F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\obj\Release\Client_opityvannya.pdb
