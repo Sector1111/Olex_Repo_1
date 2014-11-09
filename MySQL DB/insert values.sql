@@ -1,0 +1,1 @@
+INSERT INTO `question_1` (`answ1`, `answ2`, `answ3`) VALUES (1, 1, 1);

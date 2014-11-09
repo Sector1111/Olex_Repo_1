@@ -1,0 +1,1 @@
+CREATE DATABASE results_of_a_poll;

@@ -1,0 +1,1 @@
+CREATE TABLE `question_1` ( `answ1` int(10) NOT NULL DEFAULT '0',`answ2` int(10) NOT NULL DEFAULT '0', `answ3` int(10) NOT NULL DEFAULT '0');
