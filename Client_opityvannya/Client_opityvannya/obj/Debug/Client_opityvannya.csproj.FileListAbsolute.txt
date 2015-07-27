@@ -7,3 +7,12 @@ F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya
 F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\obj\Debug\Client_opityvannya.csproj.GenerateResource.Cache
 F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\obj\Debug\Client_opityvannya.exe
 F:\VS programs\4 курс 2 семестр\Client_opityvannya\Client_opityvannya\obj\Debug\Client_opityvannya.pdb
+C:\Users\Olex\Documents\GitHubVisualStudio\Olex_Repo_1\Client_opityvannya\Client_opityvannya\bin\Debug\Client_opityvannya.exe.config
+C:\Users\Olex\Documents\GitHubVisualStudio\Olex_Repo_1\Client_opityvannya\Client_opityvannya\obj\Debug\Client_opityvannya.exe
+C:\Users\Olex\Documents\GitHubVisualStudio\Olex_Repo_1\Client_opityvannya\Client_opityvannya\obj\Debug\Client_opityvannya.pdb
+C:\Users\Olex\Documents\GitHubVisualStudio\Olex_Repo_1\Client_opityvannya\Client_opityvannya\bin\Debug\Client_opityvannya.exe
+C:\Users\Olex\Documents\GitHubVisualStudio\Olex_Repo_1\Client_opityvannya\Client_opityvannya\bin\Debug\Client_opityvannya.pdb
+C:\Users\Olex\Documents\GitHubVisualStudio\Olex_Repo_1\Client_opityvannya\Client_opityvannya\obj\Debug\Client_opityvannya.csprojResolveAssemblyReference.cache
+C:\Users\Olex\Documents\GitHubVisualStudio\Olex_Repo_1\Client_opityvannya\Client_opityvannya\obj\Debug\Client_opityvannya.Form1.resources
+C:\Users\Olex\Documents\GitHubVisualStudio\Olex_Repo_1\Client_opityvannya\Client_opityvannya\obj\Debug\Client_opityvannya.Properties.Resources.resources
+C:\Users\Olex\Documents\GitHubVisualStudio\Olex_Repo_1\Client_opityvannya\Client_opityvannya\obj\Debug\Client_opityvannya.csproj.GenerateResource.Cache
